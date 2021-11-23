@@ -4,7 +4,7 @@
 #purpose: rebuild and re-initialize the database
 
 #global var section
-DB_FILENAME="../db/logger.db"
+DB_FILENAME="logger.db"
 SQL_FILENAME="init_db.sql"
 TIMESTMP=`date +%y%m%d-%H%M%S`
 
@@ -53,20 +53,20 @@ set -e
 #move the database before creating a new one it. Timestamp it also
 #idea here is to make a backup 1st. If it doesn't exist, touch it. 
 FUNCTION_LOCATION='MKDIR'
-if [[ -d "../db/logger-old" ]]; then
+if [[ -d "logger-old" ]]; then
 	echo "logger-old already exists, moving on..."
 else
 	echo "logger.old doesn't exist, making logger-old dir..."
-	mkdir "../db/logger-old"
+	mkdir "db/logger-old"
 fi
 
 FUNCTION_LOCATION='CPDB'
 if [[ -f "logger.db" ]]; then
 	echo "logger.db exists, backing up to logger-old\logger.db_${TIMESTAMP}"
-	`cp "../db/logger.db" "../db/logger-old/logger_${TIMESTMP}"`
+	`cp "logger.db" "logger-old/logger_${TIMESTMP}"`
 else
 	echo "logger.db doesn't exist, creating..."
-	touch ../db/logger.db
+	touch logger.db
 fi
 
 FUNCTION_LOCATION='CRDB'
