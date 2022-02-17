@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="925b2589-297e-4ddb-a452-507f3a1ef896" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/old website/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/old website/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/azure/azureSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/old website/.idea/azure/azureSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/google-java-format.xml" beforeDir="false" afterPath="$PROJECT_DIR$/old website/.idea/google-java-format.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/old website/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/old website/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/old website/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/.jsdtscope" beforeDir="false" afterPath="$PROJECT_DIR$/old website/.settings/.jsdtscope" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/old website/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/old website/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" afterPath="$PROJECT_DIR$/old website/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" afterPath="$PROJECT_DIR$/old website/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/old website/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/old website/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/apple-icon-180x180.png" beforeDir="false" afterPath="$PROJECT_DIR$/old website/assets/apple-icon-180x180.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/img-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/old website/assets/images/img-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/img-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/old website/assets/images/img-02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/img-03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/old website/assets/images/img-03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/img-04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/old website/assets/images/img-04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/img-08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/old website/assets/images/img-08.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/img-home.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/old website/assets/images/img-home.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/img-profil.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/old website/assets/images/img-profil.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/mashuptemplate.svg" beforeDir="false" afterPath="$PROJECT_DIR$/old website/assets/images/mashuptemplate.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cgi/init_db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/old website/cgi/init_db.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cgi/logger.pl" beforeDir="false" afterPath="$PROJECT_DIR$/old website/cgi/logger.pl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cgi/reload.sh" beforeDir="false" afterPath="$PROJECT_DIR$/old website/cgi/reload.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components.html" beforeDir="false" afterPath="$PROJECT_DIR$/old website/components.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/init_db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/old website/db/init_db.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/reload.sh" beforeDir="false" afterPath="$PROJECT_DIR$/old website/db/reload.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/old website/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.3da94fde.css" beforeDir="false" afterPath="$PROJECT_DIR$/old website/main.3da94fde.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.4c6e144e.js" beforeDir="false" afterPath="$PROJECT_DIR$/old website/main.4c6e144e.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.4c6e144e.map" beforeDir="false" afterPath="$PROJECT_DIR$/old website/main.4c6e144e.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newsite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/main.3da94fde.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/old website/old/main.3da94fde.css.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/main.4c6e144e.js.gz" beforeDir="false" afterPath="$PROJECT_DIR$/old website/old/main.4c6e144e.js.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/old website/project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/sample-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/old website/sample/sample-page.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24kFKy8SzFIOVHMwKtc1w9bYF0X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/old website" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="925b2589-297e-4ddb-a452-507f3a1ef896" name="Changes" comment="" />
+      <created>1644166622097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644166622097</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
