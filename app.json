@@ -1,5 +1,5 @@
 {
-  "name": "Start on Heroku: Java",
-  "description": "A barebones Java app, which can easily be deployed to Heroku.",
+  "name": "alvonellos.com website",
+  "description": "alvonellos.com, on heroku",
   "addons": [ "heroku-postgresql" ]
 }

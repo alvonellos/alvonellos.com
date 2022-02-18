@@ -4,160 +4,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="925b2589-297e-4ddb-a452-507f3a1ef896" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_classgraph_classgraph_4_8_69.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_35.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_35.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_jasper_9_0_35.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_35.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_9_0_35.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jdt_ecj_3_18_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bootstrap_4_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_3_3_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_ui_1_12_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_popper_js_1_14_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_webjars_locator_0_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_webjars_locator_core_0_45.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alvonellos/website/configuration/FaviconConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alvonellos/website/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/documents/Alexander_Alvonellos_Resume.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/background.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/octocat.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/banner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/documents/Alexander_Alvonellos_Resume.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/img/background.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/img/octocat.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/view/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="925b2589-297e-4ddb-a452-507f3a1ef896" name="Changes" comment="added some files">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/view/about.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md 2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/old website/.idea/alvonellos.com.iml" beforeDir="false" afterPath="$PROJECT_DIR$/old website/.idea/alvonellos.com.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alvonellos/website/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alvonellos/website/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alvonellos/website/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alvonellos/website/configuration/FaviconConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alvonellos/website/configuration/FaviconConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/public/lang-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/public/stylesheets/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/db.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/error.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/fragments/layout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/bootstrap-4.0.0-dist/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/documents/Alexander_Alvonellos_Resume.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/static/bootstrap-4.0.0-dist/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,19 +99,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/view" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/view" />
       <recent name="$PROJECT_DIR$/src/main/webapp" />
       <recent name="$PROJECT_DIR$/src/main/resources/static" />
       <recent name="$PROJECT_DIR$/src/main/resources/static/" />
       <recent name="$PROJECT_DIR$/src/main/resources/public/documents" />
-      <recent name="$PROJECT_DIR$/src/main/resources/templates/fragments" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/static/" />
       <recent name="$PROJECT_DIR$/src/main/webapp" />
       <recent name="$PROJECT_DIR$/src/main/resources/static" />
       <recent name="$PROJECT_DIR$/src/main/resources/public/js" />
@@ -237,6 +141,14 @@
       <updated>1644166622097</updated>
       <workItem from="1645068890402" duration="547000" />
     </task>
+    <task id="LOCAL-00001" summary="added some files">
+      <created>1645148825603</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645148825603</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,5 +167,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="added some files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some files" />
   </component>
 </project>

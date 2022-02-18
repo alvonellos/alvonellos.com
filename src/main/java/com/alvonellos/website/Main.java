@@ -53,6 +53,9 @@ public class Main {
     return "index";
   }
 
+  @RequestMapping("/about")
+  String about() { return "about"; }
+
 
   @RequestMapping("/db")
   String db(Map<String, Object> model) {

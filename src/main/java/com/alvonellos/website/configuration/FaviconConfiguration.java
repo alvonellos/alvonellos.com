@@ -1,5 +1,6 @@
 package com.alvonellos.website.configuration;
 
+import lombok.extern.java.Log;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.ClassPathResource;
@@ -9,6 +10,7 @@ import org.springframework.web.servlet.resource.ResourceHttpRequestHandler;
 import java.util.Collections;
 
 @Configuration
+@Log
 public class FaviconConfiguration {
 
     @Bean
@@ -16,7 +18,8 @@ public class FaviconConfiguration {
         SimpleUrlHandlerMapping mapping = new SimpleUrlHandlerMapping();
         mapping.setOrder(Integer.MIN_VALUE);
         mapping.setUrlMap(Collections.singletonMap(
-                "/public/img/favicon.ico", faviconRequestHandler()));
+                "/favicon.ico", faviconRequestHandler()));
+        log.info("Favicon mapping: " + mapping);
         return mapping;
     }
 
