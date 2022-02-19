@@ -1,3 +1,6 @@
-/Users/alex/Documents/GitHub/alvonellos.com/src/main/java/com/alvonellos/website/controller/IndexController.java
+/Users/alex/Documents/GitHub/alvonellos.com/src/main/java/com/alvonellos/website/model/StatisticsEntity.java
+/Users/alex/Documents/GitHub/alvonellos.com/src/main/java/com/alvonellos/website/repository/StatisticsRepository.java
+/Users/alex/Documents/GitHub/alvonellos.com/src/main/java/com/alvonellos/website/controller/StatisticsController.java
+/Users/alex/Documents/GitHub/alvonellos.com/src/main/java/com/alvonellos/website/controller/ViewController.java
 /Users/alex/Documents/GitHub/alvonellos.com/src/main/java/com/alvonellos/website/Main.java
-/Users/alex/Documents/GitHub/alvonellos.com/src/main/java/com/alvonellos/website/configuration/FaviconConfiguration.java
+/Users/alex/Documents/GitHub/alvonellos.com/src/main/java/com/alvonellos/website/service/StatisticsService.java

@@ -1,2 +1,7 @@
+com/alvonellos/website/repository/StatisticsRepository.class
+com/alvonellos/website/controller/ViewController.class
+com/alvonellos/website/controller/StatisticsController.class
+com/alvonellos/website/service/StatisticsService.class
 com/alvonellos/website/Main.class
-com/alvonellos/website/configuration/FaviconConfiguration.class
+com/alvonellos/website/model/StatisticsEntity$StatisticsEntityBuilder.class
+com/alvonellos/website/model/StatisticsEntity.class

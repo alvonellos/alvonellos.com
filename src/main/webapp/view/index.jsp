@@ -5,7 +5,7 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto d-flex align-items-center justify-content-center">
           <li class="nav-item active">
-            <a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="/index">Home<span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="/about">About Me</a>
@@ -26,7 +26,7 @@
     </nav>
     <style>
         html {
-          background: url('/resources/static/img/background.svg') no-repeat center center fixed;
+          background: url('/resources/static/img/background.png') no-repeat center center fixed;
           -webkit-background-size: cover;
           -moz-background-size: cover;
           -o-background-size: cover;
@@ -34,6 +34,7 @@
         }
     </style>
 	<head>
+	<link rel="shortcut icon" type="image/ico" th:href="@{/resources/static/img/favicon.ico}"/>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
@@ -41,4 +42,15 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 	<title>alvonellos.com | index </title>
 	</head>
+	<body onload="document.forms['statistics'].submit()">
+        <iframe name="dummy" id="dummy" style="display: none;"></iframe>
+        <form method="POST" action="/statistics" name="statistics" target="dummy"/>
+            <input type="hidden" name="userAgent" value="<%= request.getHeader("user-agent") %>"/>
+            <input type="hidden" name="method" value="<%=request.getMethod()%>"/>
+            <input type="hidden" name="requestURI" value="<%=request.getRequestURI()%>"/>
+            <input type="hidden" name="protocol" value="<%= request.getProtocol() %>"/>
+            <input type="hidden" name="remoteHost" value="<%= request.getRemoteHost() %>"/>
+            <input type="hidden" name="remoteAddr" value="<%= request.getRemoteAddr() %>"/>
+        </form>
+    </body>
 </html>
