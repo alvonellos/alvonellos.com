@@ -1,0 +1,9 @@
+@font-face {
+    font-family: calligraphy;
+    src: url(/resources/static/fonts/Sidecar_3_Regular.otf);
+}
+
+h2 {
+    font-family: calligraphy;
+    color: #fbbf5d;
+}

@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="925b2589-297e-4ddb-a452-507f3a1ef896" name="Changes" comment="forgot the port">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/css/alvonellos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/fonts/Sidecar_3_Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/img/background-about.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/view/about.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/about.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/view/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/view/statistics.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/statistics.jsp" afterDir="false" />
@@ -37,7 +41,7 @@
       <map>
         <entry key="com.haulmont.jpb.jpaInspector" value="true" />
         <entry key="com.haulmont.jpb.jpaPalette" value="true" />
-        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
       </map>
     </option>
   </component>
@@ -66,23 +70,23 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/view" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/resources/static/img" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/resources/static/img" />
       <recent name="$PROJECT_DIR$/src/main/webapp/view" />
       <recent name="$PROJECT_DIR$/src/main/webapp" />
       <recent name="$PROJECT_DIR$/src/main/resources/static" />
       <recent name="$PROJECT_DIR$/src/main/resources/static/" />
-      <recent name="$PROJECT_DIR$/src/main/resources/public/documents" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/resources/static/fonts" />
       <recent name="$PROJECT_DIR$/src/main/webapp/resources/static/img" />
       <recent name="$PROJECT_DIR$/src/main/resources/static/img" />
       <recent name="$PROJECT_DIR$/src/main/resources/static/" />
       <recent name="$PROJECT_DIR$/src/main/webapp" />
-      <recent name="$PROJECT_DIR$/src/main/resources/static" />
     </key>
   </component>
   <component name="RunManager">
@@ -142,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645247826311</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="forgot the port">
+      <created>1645248295140</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645248295140</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

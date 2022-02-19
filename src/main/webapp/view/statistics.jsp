@@ -67,7 +67,7 @@
                   <td>${i.remoteAddr}</td>
                 </tr>
               </c:forEach>
-          </table
+          </table>
 	</body>
 		<body onload="document.forms['statistics'].submit()">
             <iframe name="dummy" id="dummy" style="display: none;"></iframe>
