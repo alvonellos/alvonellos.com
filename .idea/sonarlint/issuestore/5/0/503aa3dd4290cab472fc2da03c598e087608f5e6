@@ -1,0 +1,27 @@
+
+]
+java:S1128";Remove this unused import 'com.zaxxer.hikari.HikariConfig'.(§Â§¦ûÿÿÿÿ8Îµì€ñ/
+a
+java:S1128"?Remove this unused import 'com.zaxxer.hikari.HikariDataSource'.(¦åõ³ûÿÿÿÿ8Îµì€ñ/
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8Òæì€ñ/
+l
+java:S1128"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8Òæì€ñ/
+e
+java:S1128"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş8Ïµì€ñ/
+c
+java:S1128"ARemove this unused import 'org.springframework.http.HttpHeaders'.(ãŸñ×úÿÿÿÿ8î™ÿğ/
+S
+java:S1128"1Remove this unused import 'javax.sql.DataSource'.(ÉòÂ¿úÿÿÿÿ8Óæì€ñ/
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8‹ì€ñ/
+K
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8Œì€ñ/
+O
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8Ïµì€ñ/
+L
+java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8Œì€ñ/
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Œì€ñ/
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8Œì€ñ/

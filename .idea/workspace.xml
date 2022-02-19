@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="925b2589-297e-4ddb-a452-507f3a1ef896" name="Changes" comment="forgot the port">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/css/alvonellos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/fonts/Sidecar_3_Regular.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/static/img/background-about.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/about.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/about.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/statistics.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/statistics.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="925b2589-297e-4ddb-a452-507f3a1ef896" name="Changes" comment="added the about page." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645248295140</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added the about page.">
+      <created>1645250338127</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645250338127</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +175,7 @@
     <MESSAGE value="Made a few changes" />
     <MESSAGE value="Made a few changes. Added some new pages. Added a new controller, tables, and a statistics chart." />
     <MESSAGE value="forgot the port" />
-    <option name="LAST_COMMIT_MESSAGE" value="forgot the port" />
+    <MESSAGE value="added the about page." />
+    <option name="LAST_COMMIT_MESSAGE" value="added the about page." />
   </component>
 </project>
